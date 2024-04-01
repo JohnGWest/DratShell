@@ -1,0 +1,5 @@
+EXIT = 'EXIT'.encode('utf-8')
+PRNT = 'PRNT'.encode('utf-8')
+PASS = 'PASS'.encode('utf-8')
+EXEC = 'EXEC'.encode('utf-8')
+STRT = 'STRT'.encode('utf-8')
